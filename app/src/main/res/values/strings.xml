@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="add_reminder">Add reminder</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyAt3BQnS7ngwA2HhDQEEd4KRHWe1AFVxII
+    </string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
